@@ -5,6 +5,10 @@ app_description = "Estudo de caso FullStack NexForce"
 app_email = "sharmankamylle@gmail.com"
 app_license = "mit"
 
+doctype_calendar_js = {
+    "Appointment": "public/js/appointment_calendar.js"
+}
+
 # Apps
 # ------------------
 
